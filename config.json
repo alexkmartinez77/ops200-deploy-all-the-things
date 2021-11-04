@@ -1,7 +1,7 @@
 {
-  "first_app": "",
-  "change_calculator": "",
-  "mortgage_calculator": "",
-  "top_spots": "",
-  "vstda": ""
+  "first_app": "https://nameless-earth-64708.herokuapp.com/",
+  "change_calculator": "https://sdcs-react100-changecalculator.herokuapp.com/",
+  "mortgage_calculator": "https://sdcs-react100-mortgage-calc.herokuapp.com/",
+  "top_spots": "https://sdcs-web102-sd-hot-spots.herokuapp.com/",
+  "vstda": "https://sdcs-react100-vstda.herokuapp.com/"
 }
